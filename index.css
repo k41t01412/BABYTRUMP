@@ -34,3 +34,6 @@ body {
 .about-logos {
     animation: customBounce 1.5s infinite;
 }
+.w-full button:hover .svgg path {
+    fill: black;
+}
